@@ -1,0 +1,15 @@
+C:\Users\Teddy\source\repos\Nemetscheck\Nemetscheck\obj\Debug\net6.0\Nemetscheck.csproj.AssemblyReference.cache
+C:\Users\Teddy\source\repos\Nemetscheck\Nemetscheck\obj\Debug\net6.0\Nemetscheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teddy\source\repos\Nemetscheck\Nemetscheck\obj\Debug\net6.0\Nemetscheck.AssemblyInfoInputs.cache
+C:\Users\Teddy\source\repos\Nemetscheck\Nemetscheck\obj\Debug\net6.0\Nemetscheck.AssemblyInfo.cs
+C:\Users\Teddy\source\repos\Nemetscheck\Nemetscheck\obj\Debug\net6.0\Nemetscheck.csproj.CoreCompileInputs.cache
+C:\Users\Teddy\source\repos\Nemetscheck\Nemetscheck\bin\Debug\net6.0\Nemetscheck.exe
+C:\Users\Teddy\source\repos\Nemetscheck\Nemetscheck\bin\Debug\net6.0\Nemetscheck.deps.json
+C:\Users\Teddy\source\repos\Nemetscheck\Nemetscheck\bin\Debug\net6.0\Nemetscheck.runtimeconfig.json
+C:\Users\Teddy\source\repos\Nemetscheck\Nemetscheck\bin\Debug\net6.0\Nemetscheck.dll
+C:\Users\Teddy\source\repos\Nemetscheck\Nemetscheck\bin\Debug\net6.0\Nemetscheck.pdb
+C:\Users\Teddy\source\repos\Nemetscheck\Nemetscheck\obj\Debug\net6.0\Nemetscheck.dll
+C:\Users\Teddy\source\repos\Nemetscheck\Nemetscheck\obj\Debug\net6.0\refint\Nemetscheck.dll
+C:\Users\Teddy\source\repos\Nemetscheck\Nemetscheck\obj\Debug\net6.0\Nemetscheck.pdb
+C:\Users\Teddy\source\repos\Nemetscheck\Nemetscheck\obj\Debug\net6.0\Nemetscheck.genruntimeconfig.cache
+C:\Users\Teddy\source\repos\Nemetscheck\Nemetscheck\obj\Debug\net6.0\ref\Nemetscheck.dll
