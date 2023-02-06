@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Teddy\\source\\repos\\Nemetscheck\\Nemetscheck\\Nemetscheck.csproj",
+      "projectUniqueName": "D:\\GitHubrepo\\Animals\\Nemetscheck\\Nemetscheck\\Nemetscheck.csproj",
       "projectName": "Nemetscheck",
-      "projectPath": "C:\\Users\\Teddy\\source\\repos\\Nemetscheck\\Nemetscheck\\Nemetscheck.csproj",
+      "projectPath": "D:\\GitHubrepo\\Animals\\Nemetscheck\\Nemetscheck\\Nemetscheck.csproj",
       "packagesPath": "C:\\Users\\Teddy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Teddy\\source\\repos\\Nemetscheck\\Nemetscheck\\obj\\",
+      "outputPath": "D:\\GitHubrepo\\Animals\\Nemetscheck\\Nemetscheck\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Teddy\\AppData\\Roaming\\NuGet\\NuGet.Config",

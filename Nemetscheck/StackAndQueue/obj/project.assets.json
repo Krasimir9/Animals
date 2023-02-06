@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Teddy\\source\\repos\\Nemetscheck\\StackAndQueue\\StackAndQueue.csproj",
+      "projectUniqueName": "D:\\GitHubrepo\\Animals\\Nemetscheck\\StackAndQueue\\StackAndQueue.csproj",
       "projectName": "StackAndQueue",
-      "projectPath": "C:\\Users\\Teddy\\source\\repos\\Nemetscheck\\StackAndQueue\\StackAndQueue.csproj",
+      "projectPath": "D:\\GitHubrepo\\Animals\\Nemetscheck\\StackAndQueue\\StackAndQueue.csproj",
       "packagesPath": "C:\\Users\\Teddy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Teddy\\source\\repos\\Nemetscheck\\StackAndQueue\\obj\\",
+      "outputPath": "D:\\GitHubrepo\\Animals\\Nemetscheck\\StackAndQueue\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Teddy\\AppData\\Roaming\\NuGet\\NuGet.Config",
