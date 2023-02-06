@@ -66,7 +66,7 @@ namespace Nemecheck.Engines
             sb.AppendLine("3.  CreateRabit");
             sb.AppendLine("4.  Feed");
             sb.AppendLine("5.  Hunger");
-            sb.AppendLine("6.  ShowHealth");
+            sb.AppendLine("6.  ShowEnergy");
             sb.AppendLine("7.  HowManyAlive");
             sb.AppendLine("########################################");
             sb.AppendLine();

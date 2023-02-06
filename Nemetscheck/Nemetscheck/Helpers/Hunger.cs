@@ -24,23 +24,23 @@ namespace Zoo.Core.Commands
                 }
             }
             var toDecreaseWolfsHealth = random.Next(15, 35);
-            var giraffes = this.Database.Wolfs.Where(x => x.IsDead == false).ToList();
-            foreach (var giraffe in giraffes)
+            var wolfs = this.Database.Wolfs.Where(x => x.IsDead == false).ToList();
+            foreach (var wolf in wolfs)
             {
-                giraffe.Energy -= toDecreaseWolfsHealth;
-                if (giraffe.Energy < 60)
+                wolf.Energy -= toDecreaseWolfsHealth;
+                if (wolf.Energy < 60)
                 {
-                    giraffe.IsDead = true;
+                    wolf.IsDead = true;
                 }
             }
             var toDecreaseRabitsHealth = random.Next(15, 35);
-            var monkeys = this.Database.Rabits.Where(x => x.IsDead == false).ToList();
-            foreach (var monkey in monkeys)
+            var rabits = this.Database.Rabits.Where(x => x.IsDead == false).ToList();
+            foreach (var rabit in rabits)
             {
-                monkey.Energy -= toDecreaseRabitsHealth;
-                if (monkey.Energy < 40)
+                rabit.Energy -= toDecreaseRabitsHealth;
+                if (rabit.Energy < 40)
                 {
-                    monkey.IsDead = true;
+                    rabit.IsDead = true;
                 }
             }
             return "Most of the animals are starving. Feed them!";

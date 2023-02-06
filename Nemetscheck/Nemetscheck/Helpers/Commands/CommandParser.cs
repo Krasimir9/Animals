@@ -50,7 +50,7 @@ namespace Nemetscheck.Helpers.Commands
                     writer.WriteLine(feed.Execute());
                     return feed;
 
-                case "ShowHealth":
+                case "ShowEnergy":
 
                     writer.WriteLine("Which species health you would like to see?");
                     writer.WriteLine();
